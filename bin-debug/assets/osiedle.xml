@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<buildings amount="6">
+	<building name="A">
+		<floor number="0">
+			<flat number="1" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+			<flat number="2" label="m2" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+			<flat number="3" label="m3" all="64.08" rooms="2 POKOJE" hall="9.78" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			<flat number="4" label="m4" all="70.68" rooms="3 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			<flat number="5" label="m5" all="61.25" rooms="3 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+			<flat number="6" label="m6" all="56.84" rooms="3 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+		</floor>	
+		<floor number="1">
+			<flat number="7" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+			<flat number="8" label="m2" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+			<flat number="9" label="m3" all="64.08" rooms="3 POKOJE" hall="9.78" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			<flat number="10" label="m4" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" bathroom="4.82" />
+			<flat number="11" label="m5" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+			<flat number="12" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+		</floor>
+		<floor number="2">
+			<flat number="13" label="m1" all="47.20" rooms="2 POKOJE" hall="6.63" main_kitchen="23.06" sleeping="12.44"  bathroom="5.07" />
+			<flat number="14" label="m2" all="45.23" rooms="2 POKOJE" hall="6.63" main_kitchen="21.09" sleeping="12.44" bathroom="5.07" />
+			<flat number="15" label="m3" all="43.88" rooms="2 POKOJE" hall="4.63" main_kitchen="23.51" sleeping="10.91" bathroom="4.82" />
+			<flat number="16" label="m4" all="43.88" rooms="2 POKOJE" hall="4.63" main_kitchen="23.51" sleeping="10.91" bathroom="4.82" />
+			<flat number="17" label="m5" all="45.23" rooms="2 POKOJE" hall="6.63" main_kitchen="21.09" sleeping="12.44" bathroom="5.07" />
+			<flat number="18" label="m6" all="47.20" rooms="2 POKOJE" hall="6.63" main_kitchen="23.06" sleeping="12.44" bathroom="5.07" />
+		</floor>
+	</building>	
+	<building name="B">
+			<floor number="0">
+				<flat number="1" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="2" label="m2" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="5" label="m3" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="6" label="m4" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="3" label="m5" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="4" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+			<floor number="1">
+				<flat number="7" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="8" label="m2" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="11" label="m3" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="12" label="m4" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="9" label="m5" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="10" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="2">
+				<flat number="13" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="14" label="m2" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="17" label="m3" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="18" label="m4" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="15" label="m5" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="16" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+		</building>
+	<building name="C">
+			<floor number="0">
+				<flat number="1" label="m5" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="2" label="m6" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+			</floor>	
+			<floor number="1">
+				<flat number="3" label="m5" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="4" label="m6" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+			</floor>
+			<floor number="2">
+				<flat number="5" label="m5" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="6" label="m6" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+			</floor>	
+		</building>
+	<building name="D">
+			<floor number="0">
+				<flat number="4" label="m6" all="70.61" rooms="2 POKOJE" hall="9.3" main_kitchen="31.22" sleeping="14.1" sleeping2="9.53"  bathroom="6.45" />
+				<flat number="3" label="m5" all="53.3" rooms="2 POKOJE" hall="10.02" main_kitchen="26" sleeping="12.78" bathroom="4.32" />
+				<flat number="2" label="m4" all="53.53" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="1" label="m3" all="70.81" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			</floor>	
+			<floor number="1">
+				<flat number="8" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="7" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="6" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="5" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			</floor>
+		</building>
+	<building name="E">
+			<floor number="0">
+				<flat number="2" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="1" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="4" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="3" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			</floor>	
+			<floor number="1">
+				<flat number="6" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="5" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="8" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="7" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			</floor>
+			<floor number="2">
+				<flat number="10" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="9" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="12" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="11" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			</floor>
+			<floor number="3">
+				<flat number="14" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="13" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="16" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="15" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+			</floor>	
+		</building>
+	<building name="F">
+			<floor number="0">
+				<flat number="6" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="5" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="4" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="3" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="2" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="1" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+			<floor number="1">
+				<flat number="12" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="11" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="10" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="9" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="8" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="7" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="2">
+				<flat number="18" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="17" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="16" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="15" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="14" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="13" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+		</building>
+	<building name="G">
+			<floor number="0">
+				<flat number="1" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="2" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="3" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="4" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="5" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="6" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+			<floor number="1">
+				<flat number="7" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="8" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="9" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="10" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="11" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="12" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="2">
+				<flat number="13" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="14" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="15" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="16" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="17" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="18" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+		</building>
+	<building name="H">
+			<floor number="0">
+				<flat number="6" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="5" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="4" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="3" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="2" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="1" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+			<floor number="1">
+				<flat number="12" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="11" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="10" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="9" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="8" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="7" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="2">
+				<flat number="18" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="17" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="16" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="15" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="14" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="13" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="3">
+				<flat number="24" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="23" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="22" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="21" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="20" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="19" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+		</building>
+	<building name="I">
+			<floor number="0">
+				<flat number="4" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="5" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="6" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="1" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="2" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="3" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+			<floor number="1">
+				<flat number="10" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="11" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="12" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="7" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="8" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="9" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="2">
+				<flat number="16" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="17" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="18" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="13" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="14" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="15" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>
+			<floor number="3">
+				<flat number="22" label="m6" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38"  bathroom="5.07" />
+				<flat number="23" label="m5" all="54.46" rooms="2 POKOJE" hall="6.63" main_kitchen="30.08" sleeping="12.68" bathroom="5.07" />
+				<flat number="24" label="m4" all="64.08" rooms="2 POKOJE" hall="6.63" main_kitchen="26.04" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="19" label="m3" all="70.68" rooms="2 POKOJE" hall="9.78" main_kitchen="32.64" sleeping="11.91" sleeping2="11.52" bathroom="4.82" />
+				<flat number="20" label="m2" all="61.25" rooms="2 POKOJE" hall="6.63" main_kitchen="37.16" sleeping="12.38"  bathroom="5.07" />
+				<flat number="21" label="m1" all="56.84" rooms="2 POKOJE" hall="6.63" main_kitchen="32.75" sleeping="12.38" bathroom="5.07" />
+			</floor>	
+		</building>
+</buildings>
